@@ -6,9 +6,11 @@ returns the time since midnight in seconds.
 h = 3
 m = 5
 s = 2
-
 result = 10987
 
+example: (0,0,1) -> 1
+example: (0,1,1) -> 61
+example: (1,1,1) -> 3661
 example: (3,5,2) -> 10987
 
 hints: search "hours to minutes" and "minutes to seconds" and "js operators" also remember order of operations, you will need parenthesis
