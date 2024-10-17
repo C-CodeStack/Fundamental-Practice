@@ -74,9 +74,13 @@ hints: search "js string to number" and  "js for loop"
 ## Problem 7
 multiplying a given number by eight if it is an even number and by nine otherwise.
 
-example: (8) -> 64
+example: (8) -> 64 (8x8)
 
-example: (3) -> 27
+example: (2) -> 16 (8X2)
+
+example: (3) -> 27 (9X3)
+
+example: (5) -> 45 (9X5)
 
 hints: search "js if" and "js operators"
 #
