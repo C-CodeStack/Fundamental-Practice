@@ -24,7 +24,7 @@ Write code that takes an array of numbers and returns the sum of the numbers. Th
 
 example: ([1,1,1,1,1]) -> 5
 
-example: ([1,1,1,1,2]) -> 6
+example: ([1,1,1,1,2,1]) -> 7
 
 example: ([1, 5.2, 4, 0, -1]) -> 9.2
 
